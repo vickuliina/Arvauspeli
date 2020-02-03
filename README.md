@@ -1,1 +1,3 @@
 # Arvauspeli
+
+Ensimmäisiä komentorivi-pelejä.
