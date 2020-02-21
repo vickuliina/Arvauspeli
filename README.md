@@ -6,7 +6,7 @@ Tehtävänä on mahdollisimman nopeasti keksiä kirjaimella alkava sana, joka ku
 Nopeiten arvannut saa pisteen ja luonnollisesti eniten pisteitä kerännyt voittaa.
 
 ### Ohjelman käynnistys
-Peli käynnistetään Arvauspeli.java luokan main-medodista.
+Peli käynnistetään Arvauspeli.java luokan main-metodista.
 
 ### Ohjelman runko
 ##### Arvauspeli.java
